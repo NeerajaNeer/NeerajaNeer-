@@ -1,5 +1,5 @@
-# NeerajaNeer-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcecc.anu.edu.au%2Fstudy%2Fdataanalytics&psig=AOvVaw0mlamDQMTzgJfJCh4AuN2M&ust=1675069853879000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiw_M637PwCFQAAAAAdAAAAABA2])
-<h1 align="center">Hi 👋, I'm Neeraja Y N</h1>
+# NeerajaNeer-![MasterHead](https://cdn.uarizonabootcamp.com/wp-content/uploads/sites/56/2020/07/tes_dta_blog_image_8-850x412.jpg)
+<h1 align="center">Hi, I'm Neeraja Y N</h1>
 <h3 align="center">Postgraduate in Economics, a lifetime learner, currently looking for a job opportunity as data analyst.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajaneer&label=Profile%20views&color=0e75b6&style=flat" alt="neerajaneer" /> </p>
